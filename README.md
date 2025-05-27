@@ -1,4 +1,4 @@
-# 🪙 Cryptocurrency Transaction Data Cleaning & Analysis (SQL Project)
+# 🪙 Cryptocurrency Transaction Data Cleaning & Analysis (SQL Project) + Power BI Dashboard
 
 This project involves a structured approach to cleaning, transforming, and analyzing a cryptocurrency transaction dataset using SQL. The objective is to draw meaningful insights by performing data preparation, aggregation, and time-based analysis.
 
@@ -167,12 +167,20 @@ SELECT * FROM CRYPTO;
 
 ---
 
+📊 Power BI Dashboard
+The Power BI report CryptoP5.pbix includes:
+📈 Monthly transaction volume trends
+💰 Currency-wise transaction analysis
+🕒 Quarter-of-day behavioral insights
+🧱 Mining pool comparison
+
 ## 📌 Technologies
 
 * SQL (MySQL syntax)
 * Data Aggregation
 * Window Functions
 * Time and String Functions
+* Power BI
 
 ---
 
