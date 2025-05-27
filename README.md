@@ -169,10 +169,12 @@ SELECT * FROM CRYPTO;
 
 📊 Power BI Dashboard
 The Power BI report CryptoP5.pbix includes:
-📈 Monthly transaction volume trends
-💰 Currency-wise transaction analysis
-🕒 Quarter-of-day behavioral insights
-🧱 Mining pool comparison
+ * Monthly transaction volume trends
+ * 💰 Currency-wise transaction analysis
+ * 🕒 Quarter-of-day behavioral insights
+ * 🧱 Mining pool comparison
+   
+---
 
 ## 📌 Technologies
 
